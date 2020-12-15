@@ -39,3 +39,8 @@
 > Trivia tuesdays is a game you could only play on tuesdays! a simple game where all you need to do is to get 
 > enough points to win! 
 *repo here: https://github.com/rfilgueras/Trivia-Game*
+
+## MadlibGUI
+#### Individual project work class
+> A short game where players are asked to enter a nound, adjective, or occupation to complete the madlib.
+*repo here:https://github.com/rfilgueras/MadlibGUI*
