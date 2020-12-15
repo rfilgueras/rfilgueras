@@ -2,6 +2,7 @@
 # Users Page
 
 ## World Passage
+![ScreenShot](/images/WorldPassage.png)
 #### Individual project for class
 > Text-based adventure game. You were an overworked employee who died on the way home. You end up reincarnating to a 
 > different world were you explore new places and live life liesurely.
