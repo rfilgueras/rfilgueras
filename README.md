@@ -1,4 +1,3 @@
-# rfilgueras.github.io
 # Users Page
 
 ## World Passage
@@ -47,12 +46,14 @@
 *repo here:https://github.com/rfilgueras/MadlibGUI*
 
 ## Trivia Game GUI
+![ScreenShot](/images/TriviaGameGUI.png)
 #### Individual project for class
-> The same trivia game but, this one has an interface made in windows forms. 
+> The same trivia game but this one has an interface made in windows forms. 
 *repo here: https://github.com/rfilgueras/TriviaGame-GUI*
 
 ## Character Creator GUI
-> A character set up that you would see in the start of every game. This is a character set up for a chef 
-> robot. Players can change the shape of the robot's mustache. the dish that the robot is serving, or
-> the color scheme of the robot. 
+![ScreenShot](/images/CharacterCreator.png)
+> A typical character set up that you would see in a game. This is a character set up for a mobile 3D printing
+> chef robot. Players can change the shape of the robot's mustache, the dish that the robot is serving, or
+> arms, wheels, head, and background. 
 *repo here: https://github.com/rfilgueras/Character-Creator*
