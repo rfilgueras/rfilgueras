@@ -59,7 +59,7 @@
 *repo here: https://github.com/rfilgueras/Character-Creator*
 
 ## Save the Whales Website
-![ScreenShot](/images/website_screenshot.jpg)
+![ScreenShot](/images/website_screenshot.JPG)
 > A Website created using Adobe Dreamweaver in Bootstrap5
 > Svg icons created using Adobe Illustrator and animated in Adove Dreamweaver
 *repo her:  https://github.com/rfilgueras/Save-the-Whales-Website*
